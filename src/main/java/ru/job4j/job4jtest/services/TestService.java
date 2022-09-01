@@ -6,6 +6,7 @@ import ru.job4j.job4jtest.model.Test;
 import java.util.List;
 
 public interface TestService {
+
     void startTest(Employee employee);
     void save(Test test);
     void stop(Test test);
