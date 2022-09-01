@@ -1,0 +1,67 @@
+<mxfile host="app.diagrams.net" modified="2022-08-27T18:32:53.481Z" agent="5.0 (Windows)" etag="gUI4S9SE4DY46Bdq4PbC" version="20.2.7" type="github">
+  <diagram id="-SDTr63Kbl7jbOKSRrBh" name="Страница 1">
+    <mxGraphModel dx="1038" dy="1801" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="cOLjLc_JJxw0HMcDvtJM-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="cOLjLc_JJxw0HMcDvtJM-1" target="cOLjLc_JJxw0HMcDvtJM-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="cOLjLc_JJxw0HMcDvtJM-1" value="Блюда" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="110" y="110" width="110" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="cOLjLc_JJxw0HMcDvtJM-7" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="cOLjLc_JJxw0HMcDvtJM-2" target="cOLjLc_JJxw0HMcDvtJM-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="cOLjLc_JJxw0HMcDvtJM-2" value="Заказ" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="340" y="260" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="cOLjLc_JJxw0HMcDvtJM-18" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="cOLjLc_JJxw0HMcDvtJM-3" target="cOLjLc_JJxw0HMcDvtJM-17">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="cOLjLc_JJxw0HMcDvtJM-3" value="Клиент" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="340" y="110" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="cOLjLc_JJxw0HMcDvtJM-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="cOLjLc_JJxw0HMcDvtJM-4" target="cOLjLc_JJxw0HMcDvtJM-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="cOLjLc_JJxw0HMcDvtJM-4" value="Геопозиция" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="80" y="400" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="cOLjLc_JJxw0HMcDvtJM-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="cOLjLc_JJxw0HMcDvtJM-6" target="cOLjLc_JJxw0HMcDvtJM-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="cOLjLc_JJxw0HMcDvtJM-6" value="Курьер" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="80" y="260" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="cOLjLc_JJxw0HMcDvtJM-11" value="Приобретает" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="240" y="120" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="cOLjLc_JJxw0HMcDvtJM-13" value="выбирает" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="230" y="260" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="cOLjLc_JJxw0HMcDvtJM-14" value="Обновляет" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="100" y="345" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="cOLjLc_JJxw0HMcDvtJM-15" value="Оформляет" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="355" y="200" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="cOLjLc_JJxw0HMcDvtJM-16" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.083;exitY=0;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="cOLjLc_JJxw0HMcDvtJM-2" target="cOLjLc_JJxw0HMcDvtJM-1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="390" y="350" as="sourcePoint" />
+            <mxPoint x="440" y="300" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="cOLjLc_JJxw0HMcDvtJM-17" value="&lt;div&gt;Дисконтная&lt;/div&gt;&lt;div&gt;карта&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="560" y="110" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="cOLjLc_JJxw0HMcDvtJM-19" value="Покупка" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="480" y="110" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="cOLjLc_JJxw0HMcDvtJM-20" value="&lt;table style=&quot;border-collapse:&#xa; collapse;width:268pt&quot; width=&quot;358&quot; cellspacing=&quot;0&quot; cellpadding=&quot;0&quot; border=&quot;0&quot;&gt;&#xa;&#xa; &lt;colgroup&gt;&lt;col style=&quot;mso-width-source:userset;mso-width-alt:3527;width:74pt&quot; width=&quot;99&quot;&gt;&#xa; &lt;col style=&quot;mso-width-source:userset;mso-width-alt:5745;width:121pt&quot; width=&quot;162&quot;&gt;&#xa; &lt;col style=&quot;mso-width-source:userset;mso-width-alt:3441;width:73pt&quot; width=&quot;97&quot;&gt;&#xa; &lt;/colgroup&gt;&lt;tbody&gt;&lt;tr style=&quot;height:15.0pt&quot; height=&quot;20&quot;&gt;&#xa;  &lt;td style=&quot;height:15.0pt;width:74pt&quot; class=&quot;xl65&quot; width=&quot;99&quot; height=&quot;20&quot;&gt;Исполнитель&lt;/td&gt;&#xa;  &lt;td style=&quot;border-left:none;width:121pt&quot; class=&quot;xl65&quot; width=&quot;162&quot;&gt;Требование&lt;/td&gt;&#xa;  &lt;td style=&quot;border-left:none;width:73pt&quot; class=&quot;xl65&quot; width=&quot;97&quot;&gt;Операция&lt;/td&gt;&#xa; &lt;/tr&gt;&#xa; &lt;tr style=&quot;height:14.4pt&quot; height=&quot;19&quot;&gt;&#xa;  &lt;td style=&quot;height:14.4pt&quot; class=&quot;xl64&quot; height=&quot;19&quot;&gt;Клиент&lt;/td&gt;&#xa;  &lt;td style=&quot;border-left:none&quot; class=&quot;xl64&quot;&gt;Покупает блюда&lt;/td&gt;&#xa;  &lt;td style=&quot;border-left:none&quot; class=&quot;xl64&quot;&gt;buy()&lt;/td&gt;&#xa; &lt;/tr&gt;&#xa; &lt;tr style=&quot;height:14.4pt&quot; height=&quot;19&quot;&gt;&#xa;  &lt;td style=&quot;height:14.4pt;border-top:none&quot; class=&quot;xl63&quot; height=&quot;19&quot;&gt;Клиент&lt;/td&gt;&#xa;  &lt;td style=&quot;border-top:none;border-left:none&quot; class=&quot;xl63&quot;&gt;Оформляет заказ&lt;/td&gt;&#xa;  &lt;td style=&quot;border-top:none;border-left:none&quot; class=&quot;xl63&quot;&gt;buyOrder()&lt;/td&gt;&#xa; &lt;/tr&gt;&#xa; &lt;tr style=&quot;height:14.4pt&quot; height=&quot;19&quot;&gt;&#xa;  &lt;td style=&quot;height:14.4pt;border-top:none&quot; class=&quot;xl63&quot; height=&quot;19&quot;&gt;Клиент&lt;/td&gt;&#xa;  &lt;td style=&quot;border-top:none;border-left:none&quot; class=&quot;xl63&quot;&gt;Покупает карту&lt;/td&gt;&#xa;  &lt;td style=&quot;border-top:none;border-left:none&quot; class=&quot;xl63&quot;&gt;buyCard()&lt;/td&gt;&#xa; &lt;/tr&gt;&#xa; &lt;tr style=&quot;height:14.4pt&quot; height=&quot;19&quot;&gt;&#xa;  &lt;td style=&quot;height:14.4pt;border-top:none&quot; class=&quot;xl63&quot; height=&quot;19&quot;&gt;Курьер&lt;/td&gt;&#xa;  &lt;td style=&quot;border-top:none;border-left:none&quot; class=&quot;xl63&quot;&gt;Выбирает заказ&lt;/td&gt;&#xa;  &lt;td style=&quot;border-top:none;border-left:none&quot; class=&quot;xl63&quot;&gt;changeOrder()&lt;/td&gt;&#xa; &lt;/tr&gt;&#xa; &lt;tr style=&quot;height:14.4pt&quot; height=&quot;19&quot;&gt;&#xa;  &lt;td style=&quot;height:14.4pt;border-top:none&quot; class=&quot;xl63&quot; height=&quot;19&quot;&gt;Курьер&lt;/td&gt;&#xa;  &lt;td style=&quot;border-top:none;border-left:none&quot; class=&quot;xl63&quot;&gt;Обновляет геопозицию&lt;/td&gt;&#xa;  &lt;td style=&quot;border-top:none;border-left:none&quot; class=&quot;xl63&quot;&gt;updateGPS()&lt;/td&gt;&#xa; &lt;/tr&gt;&#xa; &lt;tr style=&quot;height:14.4pt&quot; height=&quot;19&quot;&gt;&#xa;  &lt;td style=&quot;height:14.4pt;border-top:none&quot; class=&quot;xl63&quot; height=&quot;19&quot;&gt;Заказ&lt;/td&gt;&#xa;  &lt;td style=&quot;border-top:none;border-left:none&quot; class=&quot;xl63&quot;&gt;Загрузка блюда&lt;/td&gt;&#xa;  &lt;td style=&quot;border-top:none;border-left:none&quot; class=&quot;xl63&quot;&gt;load()&lt;/td&gt;&#xa; &lt;/tr&gt;&#xa; &lt;tr style=&quot;height:14.4pt&quot; height=&quot;19&quot;&gt;&#xa;  &lt;td style=&quot;height:14.4pt;border-top:none&quot; class=&quot;xl63&quot; height=&quot;19&quot;&gt;Геопозиция&lt;/td&gt;&#xa;  &lt;td style=&quot;border-top:none;border-left:none&quot; class=&quot;xl63&quot;&gt;Обновляение GPS&lt;/td&gt;&#xa;  &lt;td style=&quot;border-top:none;border-left:none&quot; class=&quot;xl63&quot;&gt;update()&lt;/td&gt;&#xa; &lt;/tr&gt;&#xa;&#xa;&lt;/tbody&gt;&lt;/table&gt;" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="10" y="-180" width="810" height="1260" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
